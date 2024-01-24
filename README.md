@@ -3,7 +3,7 @@
 ## *Notas de Tradução*
 *Esta é uma tradução do livro de autoria de [Matheus Facure](https://github.com/matheusfacure), cuja versão original em inglês encontra-se disponível [aqui](https://matheusfacure.github.io/python-causality-handbook/landing-page.html). Esta tradução foi autorizada pelo autor, sob a condição de manter a licença e a referência ao original. O objetivo desta tradução foi colaborar com a comunidade, proporcionando um material acessível para aqueles que não dominam o idioma inglês, ao mesmo tempo em que fortaleço meus conhecimentos ao estudar o tema. Quaisquer erros de tradução são de minha total responsabilidade.*
 
-*Rildo Demarqui*
+*[Rildo Demarqui](https://github.com/rdemarqui)*
 
 ![img](./causal-inference-for-the-brave-and-true/data/img/brave-and-true.png)
 
