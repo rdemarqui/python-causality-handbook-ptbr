@@ -2,7 +2,7 @@
 
 ## *Notas de Tradução*
 
-*Esta obra representa uma tradução autorizada do livro originalmente escrito por [Matheus Facure](https://github.com/matheusfacure), disponível em [inglês](https://matheusfacure.github.io/python-causality-handbook/landing-page.html). Concedida pelo autor sob a condição de preservar tanto a licença quanto a referência à versão original, esta tradução busca contribuir para a comunidade, oferecendo um [material acessível](causal-inference-for-the-brave-and-true/00-Summary.ipynb) para aqueles que não têm muita familiaridade com a língua inglesa, enquanto simultaneamente enriqueço meu próprio entendimento do tema. Assumo total responsabilidade por quaisquer imprecisões ou erros na tradução.*
+*Esta obra representa uma tradução autorizada do livro originalmente escrito em inglês por [Matheus Facure](https://github.com/matheusfacure). Concedida pelo autor sob a condição de preservar tanto a [licença](./LICENSE) quanto a referência à [versão original](https://matheusfacure.github.io/python-causality-handbook/landing-page.html), esta tradução livre busca contribuir para a comunidade lusófona, oferecendo um [material acessível](causal-inference-for-the-brave-and-true/00-Summary.ipynb) para aqueles que não têm muita familiaridade com a língua inglesa, enquanto simultaneamente enriqueço meu próprio entendimento do tema. Assumo total responsabilidade por quaisquer imprecisões ou erros na tradução.*
 
 *[Rildo Demarqui](https://github.com/rdemarqui)*
 
@@ -35,7 +35,7 @@ Também gostaria de referenciar os incríveis livros de Angrist. Eles me mostrar
 * [Mostly Harmless Econometrics](https://www.mostlyharmlesseconometrics.com/)
 * [Mastering 'Metrics](https://www.masteringmetrics.com/)
 
-Finalmente, gostaria de referenciar o livro de Miguel Hernan e Jamie Robins. Tem sido meu companheiro confiável nas questões mais espinhosas de inferência causal que tive que responder.
+Finalmente, gostaria de referenciar o livro de Miguel Hernan e Jamie Robins. Tem sido meu fiel companheiro nas questões mais espinhosas de inferência causal que tive que responder.
 
 * [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
