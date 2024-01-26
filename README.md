@@ -2,7 +2,7 @@
 
 ## *Notas de Tradução*
 
-*Esta obra representa uma tradução autorizada do livro originalmente escrito em inglês por [Matheus Facure](https://github.com/matheusfacure). Concedida pelo autor sob a condição de preservar tanto a [licença](./LICENSE) quanto a referência à [versão original](https://matheusfacure.github.io/python-causality-handbook/landing-page.html), esta tradução livre busca contribuir para a comunidade lusófona, oferecendo um [material acessível](causal-inference-for-the-brave-and-true/00-Summary.ipynb) para aqueles que não têm muita familiaridade com a língua inglesa, enquanto simultaneamente enriqueço meu próprio entendimento do tema. Assumo total responsabilidade por quaisquer imprecisões ou erros na tradução.*
+*Esta obra é uma tradução autorizada do livro originalmente escrito em inglês por [Matheus Facure](https://github.com/matheusfacure). Concedida pelo autor sob a condição de preservar tanto a [licença](./LICENSE) quanto a referência à [versão original](https://matheusfacure.github.io/python-causality-handbook/landing-page.html), esse trabalho busca contribuir para a comunidade, enquanto simultaneamente enriqueço meu próprio entendimento do tema, oferecendo um [material acessível](causal-inference-for-the-brave-and-true/00-Summary.ipynb) para os corajosos e verdadeiros que não têm muita familiaridade com a língua inglesa. Essa é uma tradução livre, portanto, assumo total responsabilidade por quaisquer imprecisões ou erros que venham a ocorrer.*
 
 *[Rildo Demarqui](https://github.com/rdemarqui)*
 
