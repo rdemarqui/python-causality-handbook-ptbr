@@ -4,7 +4,7 @@
 
 *Esta obra é uma tradução autorizada do livro originalmente escrito em inglês por [Matheus Facure](https://github.com/matheusfacure). Esse trabalho visa contribuir para a comunidade de língua portuguesa, fornecendo um material acessível para os corajosos e verdadeiros que não têm muita familiaridade com a língua inglesa. Essa é uma tradução livre, portanto, pode conter imprecisões ou erros.*
 
-*Você pode conferir a [versão traduzida PTBR aqui](https://github.com/rdemarqui/python-causality-handbook-ptbr/blob/master/causal-inference-for-the-brave-and-true/00-Summary.ipynb). Me diverti e aprendi muito enquanto traduzia esse livro. Espero que você se divirta e aprenda também!*
+*Você pode conferir a [versão traduzida PT-BR aqui](https://github.com/rdemarqui/python-causality-handbook-ptbr/blob/master/causal-inference-for-the-brave-and-true/00-Summary.ipynb). Me diverti e aprendi muito enquanto traduzia esse livro. Espero que você se divirta e aprenda também!*
 
 *Um grande abraço e bons estudos!*
 
