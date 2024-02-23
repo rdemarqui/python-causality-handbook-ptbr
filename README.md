@@ -34,7 +34,7 @@ Gosto de pensar nesta série inteira como uma homenagem a Joshua Angrist, Albert
 * [Cross-Section Econometrics](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)
 * [Mastering Mostly Harmless Econometrics](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
 
-Também gostaria de referenciar os incríveis livros de Angrist. Eles me mostraram que Econometria, ou 'Métricas, como eles chamam, não é apenas extremamente útil, mas também profundamente divertida.
+Também gostaria de referenciar os livros incríveis de Angrist. Eles me mostraram que Econometria, ou 'Métricas, como eles chamam, não é apenas extremamente útil, mas também profundamente divertida.
 
 * [Mostly Harmless Econometrics](https://www.mostlyharmlesseconometrics.com/)
 * [Mastering 'Metrics](https://www.masteringmetrics.com/)
