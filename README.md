@@ -30,7 +30,7 @@ Se você quiser ler o livro em coreano, @jsshin2019 montou uma equipe para torna
 Também, algumas pessoas muito gentis (@vietecon, @dinhtrang24 e @anhpham52) traduziram este conteúdo para o vietnamita:
 [Nhân quả Python](https://github.com/vietecon/NhanQuaPython)
 
-Gosto de pensar nesta série inteira como uma homenagem a Joshua Angrist, Alberto Abadie e Christopher Walters por sua incrível aula de Econometria. A maioria das ideias aqui foram tiradas de suas aulas na Associação Econômica Americana. Assisti-las é o que está me mantendo são durante este difícil ano de 2020.
+Gosto de pensar nesta série inteira como uma homenagem a Joshua Angrist, Alberto Abadie e Christopher Walters por sua incrível aula de Econometria. A maioria das ideias aqui foram tiradas de suas aulas na *American Economic Association*. Assisti-las é o que está me mantendo são durante este difícil ano de 2020.
 * [Cross-Section Econometrics](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)
 * [Mastering Mostly Harmless Econometrics](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
 
